@@ -23,9 +23,9 @@ jobs:
 
       - name: Check Report Draft Files Exist
         run: |
-          test -f docs/task1-spem-raci.md
-          test -f docs/task2-requirements.md
-          test -f docs/task3-vmodel.md
-          test -f docs/task4-lean-xp.md
-          test -f docs/task5-governance.md
+          test -f docs/task1_ProcessDefinition_Modelling.md
+          test -f docs/task2_RequirementsQuality_AgileUserStories.md
+          test -f docs/task3_SymmetricalVerification_Validation.md
+          test -f docs/task4_LeanWasteAuditing_XPPracticeAlignment.md
+          test -f docs/task5_ProcessTailoring_HumanFactorGovernance.md
           echo "All 5 task report files verified!"
