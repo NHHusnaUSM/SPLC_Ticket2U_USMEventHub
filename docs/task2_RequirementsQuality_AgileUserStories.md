@@ -6,7 +6,7 @@
 
 After discussions with the Team Members, our Product Owner (PO) has negotiated with the Event Organizers that in this Sprint, the team will commit to delivering the web portal version of the automated ticket-tier transition rule.
 
-“As an EVENT ORGANIZER using the TICKET2U WEB PORTAL on a DESKTOP or LAPTOP, I want to CONFIGURE AUTOMATED TICKET-TIER TRANSITION RULES based on sold-out quota thresholds or cutoff timestamps so that Early Bird tickets close and Regular tickets open automatically without manual intervention or overselling.” 
+*“As an **EVENT ORGANIZER** using the **TICKET2U WEB PORTAL** on a **DESKTOP** or **LAPTOP**, I want to **CONFIGURE AUTOMATED TICKET-TIER TRANSITION RULES** based on sold-out quota thresholds or cutoff timestamps so that Early Bird tickets close and Regular tickets open automatically without manual intervention or overselling.”*
 
 Acceptance Criteria:
 
@@ -29,7 +29,7 @@ Given: An Event Organizer on the Ticket-Tier Configuration page in the Ticket2U 
 
 After discussions with the Team Members, our Product Owner (PO) has negotiated that in this Sprint, the team will commit to delivering the real-time cart reservation and countdown timer across both desktop and mobile web browsers. 
 
-“As an EVENT ATTENDEE purchasing tickets on the TICKET2U WEBSITE using a DESKTOP, LAPTOP, or MOBILE BROWSER, I want my SELECTED TICKETS TO BE TEMPORARILY RESERVED WITH A 10-MINUTE COUNTDOWN TIMER upon clicking checkout so that my tickets are not sold to another buyer while I complete FPX or eWallet payment.” 
+*“As an **EVENT ATTENDEE** purchasing tickets on the **TICKET2U WEBSITE** using a **DESKTOP**, **LAPTOP**, or **MOBILE BROWSER**, I want my **SELECTED TICKETS TO BE TEMPORARILY RESERVED WITH A 10-MINUTE COUNTDOWN TIMER** upon clicking checkout so that my tickets are not sold to another buyer while I complete FPX or eWallet payment.”*
 
 Acceptance Criteria: 
 
