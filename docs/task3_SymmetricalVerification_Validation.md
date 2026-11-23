@@ -1,5 +1,6 @@
 # Task 3: Symmetrical Verification & Validation (V-Model Design)
 ## V-Model Symmetrical Mapping
+
 The V-Model above shows the symmetrical Constructive Design and Analytical Testing Phase for our secure payment and ticket reservation functionality. The horizontal arrows do not allow for late stage afterthought testing, with test plans on the right at the same time as specification on the left and all quality attributes and technical constraints are traceable. 
 
 - Requirement specification ↔ Acceptance testing 
