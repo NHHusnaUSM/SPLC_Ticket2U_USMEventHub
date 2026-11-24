@@ -8,7 +8,7 @@ The selected feature is to enhance the handling of tickets for high demand event
 
 ### User Story 1  
 
-**Story:** As an event organizer, I want to be able to automatically move between ticket tiers based on sales quota limits or cut-off times, so that Early Bird tickets are closed and Regular tickets are open automatically without manual intervention or overselling. 
+*“As an **EVENT ORGANIZER** using the **TICKET2U WEB PORTAL** on a **DESKTOP** or **LAPTOP**, I want to **CONFIGURE AUTOMATED TICKET-TIER TRANSITION RULES** based on sold-out quota thresholds or cutoff timestamps so that Early Bird tickets close and Regular tickets open automatically without manual intervention or overselling.”*
 
 **INVEST Evaluation:** 
 
@@ -23,7 +23,7 @@ The selected feature is to enhance the handling of tickets for high demand event
 
 ### User Story 2  
 
-**Story:** As an event attendee, I want my selected tickets to be held for 10 minutes when I go to checkout so that the tickets aren’t available for anyone else to purchase while I complete my payment. 
+*“As an **EVENT ATTENDEE** purchasing tickets on the **TICKET2U WEBSITE** using a **DESKTOP**, **LAPTOP**, or **MOBILE BROWSER**, I want my **SELECTED TICKETS TO BE TEMPORARILY RESERVED WITH A 10-MINUTE COUNTDOWN TIMER** upon clicking checkout so that my tickets are not sold to another buyer while I complete FPX or eWallet payment.”* 
 
 **INVEST Evaluation:** 
 
