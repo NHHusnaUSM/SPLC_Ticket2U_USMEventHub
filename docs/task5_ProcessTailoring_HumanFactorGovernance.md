@@ -45,5 +45,5 @@ Based on this analysis, we propose a **hybrid prescriptive approach**:
 
 ### Scope of Validity and Refinement
 
-Only the payment, reservation, and tier-transition components are subject to the V-Model gates. Front-end work uses Scrum. This avoids the chaos of ad-hoc Agile and the over-formalization of a fully linear Waterfall process. We will regularly review this tailoring with feedback from sprint retrospectives. Our group chose this strategy in a Fist-of-Five vote **(refer to Figure X in Appendix X)**.
+Only the payment, reservation, and tier-transition components are subject to the V-Model gates. Front-end work uses Scrum. This avoids the chaos of ad-hoc Agile and the over-formalization of a fully linear Waterfall process. We will regularly review this tailoring with feedback from sprint retrospectives. Our group chose this strategy in a Fist-of-Five vote **(refer in Appendix X)**.
 # 5.2 Tuckman’s Team Dynamics & Fist-of-Five Governance 
