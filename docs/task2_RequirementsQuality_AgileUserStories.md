@@ -1,5 +1,43 @@
 # Task 2: Requirements Quality & Agile User Stories (INVEST & GWT)
 
+## 2.1 Agile User Stories & INVEST 
+
+**Feature Backlog Item:** Automatic Ticket Tier Transitions & Real-Time Atomic Cart Reservation System 
+
+The selected feature is to enhance the handling of tickets for high demand events on Ticket2U. The system has two main features: automated ticket-tier transitions for event organizers and temporary ticket reservations for event attendees. The functionalities are designed to reduce manual intervention, improve the ticket buying experience and prevent over-selling of tickets. 
+
+### User Story 1  
+
+**Story:** As an event organizer, I want to be able to automatically move between ticket tiers based on sales quota limits or cut-off times, so that Early Bird tickets are closed and Regular tickets are open automatically without manual intervention or overselling. 
+
+**INVEST Evaluation:** 
+
+| INVEST Criteria | Evaluation | Justification |
+| :--- | :--- | :--- |
+| **Independent** | Partially | The ticket tier configuration UI can be built separately from the event page for attendees. But the automatic transition mechanism still uses ticket inventory and tier management components |
+| **Negotiable** | Yes | The interface design and configuration options like dropdowns, date-time pickers, etc. can be discussed and adjusted with the product owner without changing the main functionality |
+| **Valuable** | Yes | This feature decreases the manual effort of the organizer by toggling the ticket tiers automatically. It also stops false ticket availability and enables organizers to better manage high-demand events |
+| **Estimable** | Partially | The configuration interface and basic transition logic can be estimated by the development team. However, there are other issues to consider such as quota monitoring, cutoff scheduling and inventory updates |
+| **Small** | Partially | The story is about setting up automatic ticket-tier transitions. However, supporting both quota-based and timestamp-based conditions may involve several related development activities |
+| **Testable** | Yes | We can then test the system to make sure that when the sales quota or cutoff timestamp is reached, the Early Bird tickets close automatically, and the Regular tickets are available. If 100 tickets have been sold in the Early Bird tier, the Regular ticket tier should be enabled automatically |
+
+### User Story 2  
+
+**Story:** As an event attendee, I want my selected tickets to be held for 10 minutes when I go to checkout so that the tickets aren’t available for anyone else to purchase while I complete my payment. 
+
+**INVEST Evaluation:** 
+
+| INVEST Criteria | Evaluation | Justification |
+| :--- | :--- | :--- |
+| **Independent** | Partially | The temporary reservation mechanism can be implemented regardless of the payment gateway integration. Still it relies on the ticket inventory and checkout components for proper ticket availability management |
+| **Negotiable** | Yes | The length of the reservation like 10 minutes, 15 minutes, etc. is something that can be discussed and adjusted based on business needs and system performance considerations |
+| **Valuable** | Yes | Temporary ticket reservations are an excellent way to improve the experience of purchasing tickets. While an attendee is completing the payment process, no other buyers can purchase the reserved tickets |
+| **Estimable** | Partially | The dev team can estimate the reservation mechanism. More thought should be given to concurrent handling of reservations, inventory consistency and reservation expiration |
+| **Small** | Partially | The story revolves around temporary ticket reservations during checkout. However, this requires a number of related activities like creating reservations, showing the countdown timer, handling ticket availability and releasing expired reservations |
+| **Testable** | Yes | We can test the system to make sure reserved tickets are unavailable to other buyers during the reservation period and that they are automatically released when the 10 minute countdown expires without being paid successfully |
+
+---
+
 ## 2. Given-When-Then (GWT) & Definition of Done
 
 **USER STORY 1: AUTOMATED TICKET-TIER TRANSITION RULES**
