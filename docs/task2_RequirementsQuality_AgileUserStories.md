@@ -83,7 +83,7 @@ Given: An Event Attendee holding 2 tickets in RESERVED status with an active 10-
 - Checklists: This test must pass when tested on: 
   - Approved versions of Chrome (Desktop & Android) and Safari (iOS) browsers 
   - Automated negative/boundary race-condition tests verifying zero ticket overselling (sold_count <= total_quota) 
-  - Background cron/TTL worker verification ensuring expired locks release within 3 seconds of timeout
+  - Background TTL worker verification ensuring expired locks release within 3 seconds of timeout
 
 
 ### DEFINITION OF DONE (DOD) – Ticket2U EVENT TICKETING MODULE ###
