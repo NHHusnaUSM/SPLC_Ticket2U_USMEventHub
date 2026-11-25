@@ -46,4 +46,46 @@ Based on this analysis, we propose a **hybrid prescriptive approach**:
 ### Scope of Validity and Refinement
 
 Only the payment, reservation, and tier-transition components are subject to the V-Model gates. Front-end work uses Scrum. This avoids the chaos of ad-hoc Agile and the over-formalization of a fully linear Waterfall process. We will regularly review this tailoring with feedback from sprint retrospectives. Our group chose this strategy in a Fist-of-Five vote **(refer in Appendix X)**.
+
 # 5.2 Tuckman’s Team Dynamics & Fist-of-Five Governance 
+
+## Tuckman's Team development analysis: 
+To ensure our group of 5 students could effectively engineer the process tailoring for Ticker2u and the USM Event Hub, we evaluated our team dynamics using Tuckman's model of group development.
+
+**Forming:** The first phase focused on team ground rules and consenting on the case study (Ticket2U vs. USM Event Hub), as well as identifying team roles with the RACI model. To avoid overlapping of responsibilities and project coordination, each member was given specific tasks to perform according to his/her role and strength. This provided a clear direction and foundation for the team's collaboration.  
+
+**Storming:** There was conflict during the requirements review. Member C suggested implementing a 10 minute checkout timer for User Story 2. Member E responded to this with a technical issue that would result in a "race condition" between the database and the FPX payment gateway, a serious issue.   
+
+**Norming:** The disagreement was not allowed to stop team progress, but was used to discuss and reach a compromise for the options using the 'fist-of-five' consensus approach. The team was able to discuss openly and overcome the technical problem and agree to a new rule for the boundary.  
+
+**Performing:** The team has now overcome the process and requirements conflicts and is in the Performing stage. The members are drafter up with the support of efficient report section drafting, efficient peer reviews, and efficient handling of GitHub commits without the need of constant supervision.  
+
+**Adjourning:** The team will go into the Adjourning stage when submitted. The Group Contribution Log has already been signed to avoid any problems with the handover and avoiding disputes after the project has been completed. 
+
+## Fist-of-Five Consensus Gate 
+To formally agree on our process tailoring strategy, we utilized the Fist-of-Five consensus method. This method ensures that every member has voice and prevents false consensus, groupthink, and silent resistance during group decisions. 
+
+Please refer to Appendix D for the proof of Fist-of-Five voting. 
+
+**The Initial Proposal**
+
+Member C offered the team the initial idea for User Story 2, asking them to add a 10 minute countdown timer when checking out. This would automatically cancel the transaction if the timer reached 0 and return the ticket back to the Public Pool. The idea behind this was that the users who abandoned a checkout process without completing payment should not have their tickets reserved indefinitely. 
+
+**The 'Two' and the Vote**
+
+In the first voting round, Members A, B and D scored 5 and 4, representing high levels of support for the proposed 10 minute checkout limit. The other member C also scored the proposal 4. Another member (Member E) who was the QA and Testing Lead however scored a lot lower at 2. 
+
+The governing body rules that a vote of 2 should be a vote to delay decision making until the concern is resolved. Member E raised the concerns that the limit of 10 minutes might present a real race condition. If a user is still on the FPX bank payment screen when the timer expires, the bank may send out the ticket before they are made. One user may buy a ticket when the first user's FPX webhook is received and then another user buy the same ticket 10 seconds later, resulting in the system potentially double-booking the ticket and double-charging the user. 
+
+**The Discussion and Resolution**
+
+The team abandoned the decision making process and discussed the technical risks before proceeding with the original proposal. Member C expressed his appreciation for Member E's concern and called for more suggestions regarding the issue. 
+
+Member E offered an alternative by suggesting an extra 2 minutes grace period added as a Pending Payment grace period in the database. With this new method, users would still be presented with a 10 minute countdown timer on the checkout page but the ticket would be locked in the Redis store for an additional 2 minutes for a total of 12 minutes of reserving time. This would give enough time for the FPX payment webhook to validate the payment before releasing the ticket into the public pool. 
+
+**Final Consensus**
+
+With the discussion the team reached consensus that the proposed 12 minute backend lock, with the 10 minute user-facing countdown, would be a good way to clear the race condition without allowing ticket hoarding. 
+
+Member E then voted from 2 to 5, which meant that the technical issues had been taken care of. The team's Definition of Done was agreed upon with 100% consensus as all 5 members scored 4 or more. This agreement enabled the team to advance to the requirements phase and to transition to the Performing stage without any hassles. 
+
