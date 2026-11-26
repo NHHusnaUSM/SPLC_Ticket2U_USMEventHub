@@ -52,15 +52,15 @@ Only the payment, reservation, and tier-transition components are subject to the
 ## Tuckman's Team development analysis: 
 To ensure our group of 5 students could effectively engineer the process tailoring for Ticker2u and the USM Event Hub, we evaluated our team dynamics using Tuckman's model of group development.
 
-**Forming:** The first phase focused on team ground rules and consenting on the case study (Ticket2U vs. USM Event Hub), as well as identifying team roles with the RACI model. To avoid overlapping of responsibilities and project coordination, each member was given specific tasks to perform according to his/her role and strength. This provided a clear direction and foundation for the team's collaboration.  
+**Forming:** The team got together, set up communication via WhatsApp and Notion, and split up the project work among Members A to E with everyone being very polite and trying to understand what is required for the project, the scope and the deadlines for the Ticket2U case study as well as the USM Event Hub system. 
 
-**Storming:** There was conflict during the requirements review. Member C suggested implementing a 10 minute checkout timer for User Story 2. Member E responded to this with a technical issue that would result in a "race condition" between the database and the FPX payment gateway, a serious issue.   
+**Storming:** During our process tailoring strategy vote with the Fist of Five, a conflict arose. While the team proposed a Hybrid Model (Scrum for front-end, V-Model for Ticket2U backend, and V-Model Lite for USM Event Hub), a member voted a '2'. The need for a conflict came from some serious concerns that heavy V-Model documentation would slow down our sprints, and may take us too long to get our students done in Week 9. 
 
-**Norming:** The disagreement was not allowed to stop team progress, but was used to discuss and reach a compromise for the options using the 'fist-of-five' consensus approach. The team was able to discuss openly and overcome the technical problem and agree to a new rule for the boundary.  
+**Norming:** The team had an open discussion to resolve the '2' vote. A clear compromise was proposed by the member who voted '2' and said if the team take the strict version of the V-model in the case study of Ticket2U, but take the v-model lite version for their project. This change was agreed by the team. The member then changed their vote to a '5', and the team achieved 100% consensus. At this stage, the team finalized clear working norms, adjusted progress trackers in the Notion and agreed on governance rules.  
+ 
+**Performing:** Clear roles and agreed processes enabled the team to work independently and efficiently on their individual deliverables, including front-end sprints, database design, V-Model verification/validation and testing. Members checked each other's sections in Notion to make sure everything was consistent and good before submitting and Viva. 
 
-**Performing:** The team has now overcome the process and requirements conflicts and is in the Performing stage. The members are drafter up with the support of efficient report section drafting, efficient peer reviews, and efficient handling of GitHub commits without the need of constant supervision.  
-
-**Adjourning:** The team will go into the Adjourning stage when submitted. The Group Contribution Log has already been signed to avoid any problems with the handover and avoiding disputes after the project has been completed. 
+**Adjourning:** At the end of the report, demo of the system and viva presentation, the team had the opportunity to discuss the lessons learnt regarding the trade-offs between industry-standard software engineering practices and student project deadlines, before the end of the project. 
 
 ## Fist-of-Five Consensus Gate 
 To formally agree on our process tailoring strategy, we utilized the Fist-of-Five consensus method. This method ensures that every member has voice and prevents false consensus, groupthink, and silent resistance during group decisions. (Please refer to Appendix D.1 for the proof of Fist-of-Five voting.) 
