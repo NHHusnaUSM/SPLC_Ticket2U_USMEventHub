@@ -63,29 +63,13 @@ To ensure our group of 5 students could effectively engineer the process tailori
 **Adjourning:** The team will go into the Adjourning stage when submitted. The Group Contribution Log has already been signed to avoid any problems with the handover and avoiding disputes after the project has been completed. 
 
 ## Fist-of-Five Consensus Gate 
-To formally agree on our process tailoring strategy, we utilized the Fist-of-Five consensus method. This method ensures that every member has voice and prevents false consensus, groupthink, and silent resistance during group decisions. 
+To formally agree on our process tailoring strategy, we utilized the Fist-of-Five consensus method. This method ensures that every member has voice and prevents false consensus, groupthink, and silent resistance during group decisions. (Please refer to Appendix D.1 for the proof of Fist-of-Five voting.) 
 
-Please refer to Appendix D for the proof of Fist-of-Five voting. 
+**Explanation**
+The team initially proposed adopting a Hybrid Model that combines different development approaches to suit the requirements of each project. The proposal involved using Scrum for front-end development, strict V-Model gate checks for the Ticket2U backend payment system, and V-Model Lite for the actual USM Event Hub project. 
 
-**The Initial Proposal**
+During the voting session, Atiqah and Syafrina gave a score of 5 and Husna gave a score of 4 respectively which showed their strong support. Some of the participants concurred with the proposal, but Husna noted that the rigorous V-Model documentation could be a hindrance to the development sprints. Ain, however, scored 2, causing the team to come under its governance rule and stopping the decision-making process. Ain discussed her worries about how time intensive the strict V-Model was and the potential of not finishing the project in time for Week 9 for the USM Event Hub project due to limited time and resources available to the team as undergraduates at the university. 
 
-Member C offered the team the initial idea for User Story 2, asking them to add a 10 minute countdown timer when checking out. This would automatically cancel the transaction if the timer reached 0 and return the ticket back to the Public Pool. The idea behind this was that the users who abandoned a checkout process without completing payment should not have their tickets reserved indefinitely. 
+The team then stopped voting and discussed the issues of workload and project deadlines. The team lead accepted Ain's concern and offered a compromise to keep using the V-Model for the case study for Ticket2U and use the simplified V-Model Lite for the actual USM Event Hub project. The change would enable the team to keep up with the required academic level without the burden of documentation and development for the specific project. 
 
-**The 'Two' and the Vote**
-
-In the first voting round, Members A, B and D scored 5 and 4, representing high levels of support for the proposed 10 minute checkout limit. The other member C also scored the proposal 4. Another member (Member E) who was the QA and Testing Lead however scored a lot lower at 2. 
-
-The governing body rules that a vote of 2 should be a vote to delay decision making until the concern is resolved. Member E raised the concerns that the limit of 10 minutes might present a real race condition. If a user is still on the FPX bank payment screen when the timer expires, the bank may send out the ticket before they are made. One user may buy a ticket when the first user's FPX webhook is received and then another user buy the same ticket 10 seconds later, resulting in the system potentially double-booking the ticket and double-charging the user. 
-
-**The Discussion and Resolution**
-
-The team abandoned the decision making process and discussed the technical risks before proceeding with the original proposal. Member C expressed his appreciation for Member E's concern and called for more suggestions regarding the issue. 
-
-Member E offered an alternative by suggesting an extra 2 minutes grace period added as a Pending Payment grace period in the database. With this new method, users would still be presented with a 10 minute countdown timer on the checkout page but the ticket would be locked in the Redis store for an additional 2 minutes for a total of 12 minutes of reserving time. This would give enough time for the FPX payment webhook to validate the payment before releasing the ticket into the public pool. 
-
-**Final Consensus**
-
-With the discussion the team reached consensus that the proposed 12 minute backend lock, with the 10 minute user-facing countdown, would be a good way to clear the race condition without allowing ticket hoarding. 
-
-Member E then voted from 2 to 5, which meant that the technical issues had been taken care of. The team's Definition of Done was agreed upon with 100% consensus as all 5 members scored 4 or more. This agreement enabled the team to advance to the requirements phase and to transition to the Performing stage without any hassles. 
-
+After discussion, everyone on the team decided that the updated plan was more feasible and would be more practical to do in the designated amount of time. Afterwards, Ain voted 5, whilst Atiqah, Syafrina and Husna confirmed their support with a score of 5, each. Consequently, the proposal garnered 100% consensus and the team was able to complete its Hybrid Model tailoring strategy successfully.
