@@ -54,16 +54,17 @@ To ensure our group of 5 students could effectively engineer the process tailori
 
 **Forming:** The team got together, set up communication via WhatsApp and Notion, and split up the project work among Members A to E with everyone being very polite and trying to understand what is required for the project, the scope and the deadlines for the Ticket2U case study as well as the USM Event Hub system. 
 
-**Storming:** During our process tailoring strategy vote with the Fist of Five, a conflict arose. While the team proposed a Hybrid Model (Scrum for front-end, V-Model for Ticket2U backend, and V-Model Lite for USM Event Hub), a member voted a '2'. The need for a conflict came from some serious concerns that heavy V-Model documentation would slow down our sprints, and may take us too long to get our students done in Week 9. 
+**Storming:** During the team's process tailoring vote using the Fist-of-Five method, a conflict arose. The team suggested a Hybrid Model (Scrum for the front-end, V-Model for the Ticket2U back-end and V-Model Lite for the USM Event Hub) but one team member voted '2'. This conflict was due to a serious concern that if the team used a heavy V-Model documentation it would slow them down and may not allow the students to complete their project by Week 9.
 
-**Norming:** The team had an open discussion to resolve the '2' vote. A clear compromise was proposed by the member who voted '2' and said if the team take the strict version of the V-model in the case study of Ticket2U, but take the v-model lite version for their project. This change was agreed by the team. The member then changed their vote to a '5', and the team achieved 100% consensus. At this stage, the team finalized clear working norms, adjusted progress trackers in the Notion and agreed on governance rules.  
+**Norming:** The team had an open discussion to solve the '2' vote. The one who voted ‘2’ suggested that it would be a good compromise to use strict V-model for the case study on Ticket2U and v-model lite for our project. (as seen in Figure D.1). The team agreed to this modification. The dissenting member then voted '5' and the team reached 100% consensus. The team set up clear working norms and tweaked progress trackers on Notion, and agreed on governance rules once aligned. 
  
-**Performing:** Clear roles and agreed processes enabled the team to work independently and efficiently on their individual deliverables, including front-end sprints, database design, V-Model verification/validation and testing. Members checked each other's sections in Notion to make sure everything was consistent and good before submitting and Viva. 
+**Performing:** Clear roles and agreed process meant that the team could carry out work independently and efficiently on each of their deliverables such as front-end sprints, database design and V-Model verification/validation testing. Members cross checked each others' sections in Notion proactively for consistency and quality prior to the final submission and viva.
 
-**Adjourning:** At the end of the report, demo of the system and viva presentation, the team had the opportunity to discuss the lessons learnt regarding the trade-offs between industry-standard software engineering practices and student project deadlines, before the end of the project. 
+**Adjourning:**  The team shared the lessons learnt at the end of project, after the final report, system demo, and viva presentation, about the balance between industry-hardened software engineering techniques and students' project deadlines.
 
 ## Fist-of-Five Consensus Gate 
 To formally agree on our process tailoring strategy, we utilized the Fist-of-Five consensus method. This method ensures that every member has voice and prevents false consensus, groupthink, and silent resistance during group decisions. (Please refer to Appendix D.1 for the proof of Fist-of-Five voting.) 
+![System Diagram](img/vModel.jpeg)
 
 **Explanation**
 The team initially proposed adopting a Hybrid Model that combines different development approaches to suit the requirements of each project. The proposal involved using Scrum for front-end development, strict V-Model gate checks for the Ticket2U backend payment system, and V-Model Lite for the actual USM Event Hub project. 
