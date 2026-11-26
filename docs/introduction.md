@@ -1,4 +1,5 @@
 Background and Organizational Context
+  
   Modern event and ticketing platforms operate in high-concurrency, zero tolerance transactional environments where minor software process failures directly cause 
   revenue loss, seat overselling, and reputational damage. In Malaysia, Ticket2U exemplifies a mature commercial ticketing and event management  platform capable of 
   handling flash ticket sales, real-time seat allocation, FPX/DuitNow payment gateway webhooks, and cryptographic QR e-ticket validation at scale. Conversely, 
@@ -7,6 +8,7 @@ Background and Organizational Context
   requirement changes over unreviewed feature commits, manual receipt verification, and end-of-lifecycle click-through testing.
 
 Purpose and Scope of the Process Audit
+  
   The objective of this report is to conduct a rigorous software engineering process audit comparing Ticket2U’s commercial lifecycle standards against our experienced 
   workflow in the USM Event Management Hub. By diagnosing operational bottlenecks, requirement volatility, and late-stage defect leaks, this study designs an 
   actionable transition roadmap from ad-hoc development to disciplined, engineering-style software process management. The proposed framework integrates formal 
