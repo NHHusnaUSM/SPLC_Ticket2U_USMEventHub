@@ -64,7 +64,6 @@ To ensure our group of 5 students could effectively engineer the process tailori
 
 ## Fist-of-Five Consensus Gate 
 To formally agree on our process tailoring strategy, we utilized the Fist-of-Five consensus method. This method ensures that every member has voice and prevents false consensus, groupthink, and silent resistance during group decisions. (Please refer to Appendix D.1 for the proof of Fist-of-Five voting.) 
-![System Diagram](img/vModel.jpeg)
 
 **Explanation**
 The team initially proposed adopting a Hybrid Model that combines different development approaches to suit the requirements of each project. The proposal involved using Scrum for front-end development, strict V-Model gate checks for the Ticket2U backend payment system, and V-Model Lite for the actual USM Event Hub project. 
