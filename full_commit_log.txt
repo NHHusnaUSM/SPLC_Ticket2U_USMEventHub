@@ -1,0 +1,347 @@
+Commit: 3dee5277b7ba56d1991c7ed8611261701ff3f9c7
+Author: NHHusnaUSM
+Email: nurhidayatulhusna@student.usm.my
+Date: 2026-11-27 14:27:13 +0800
+Message: Update task1_ProcessDefinition_Modelling.md
+
+Commit: 684cf232353c6568a711f4acad5b51c0cd7e5150
+Author: NHHusnaUSM
+Email: nurhidayatulhusna@student.usm.my
+Date: 2026-11-27 12:21:11 +0800
+Message: add gantt chart & task planning
+
+Commit: 953b30311f79e9866f0603f333dbcb5100b6b076
+Author: NHHusnaUSM
+Email: nurhidayatulhusna@student.usm.my
+Date: 2026-11-27 09:37:02 +0800
+Message: Add system diagram to Human Factor Governance document
+
+Commit: 1195b64c8b1a814b60eede0ed89f0bcce438401b
+Author: NHHusnaUSM
+Email: nurhidayatulhusna@student.usm.my
+Date: 2026-11-27 09:35:39 +0800
+Message: Fist-Of-Five eveidence
+
+Commit: 0ba52efbdf02ddf829218d6c2d2679f597cb57e3
+Author: AIN NUR NAJWA BINTI MOHD ALI
+Email: annajwa0310@student.usm.my
+Date: 2026-11-26 17:12:44 +0000
+Message: Remove system diagram from governance document
+
+Commit: b9bbd5a66951733a5376306b22dd04e0f5b4ced2
+Author: AIN NUR NAJWA BINTI MOHD ALI
+Email: annajwa0310@student.usm.my
+Date: 2026-11-26 17:12:12 +0000
+Message: Refine team dynamics descriptions in governance document
+
+Commit: 06b4aff110a1ab0c51778ae19ac559509a8df91f
+Author: AIN NUR NAJWA BINTI MOHD ALI
+Email: annajwa0310@student.usm.my
+Date: 2026-11-26 16:55:05 +0000
+Message: Revise Tuckman's Team development analysis details
+
+Commit: e02b17afe59fa4ead5a7e8a2fdd96bb7197b6ca4
+Author: AIN NUR NAJWA BINTI MOHD ALI
+Email: annajwa0310@student.usm.my
+Date: 2026-11-26 16:40:45 +0000
+Message: Update process tailoring documentation with consensus details
+
+Commit: 333049363feadab485f90b2be854dfc15aeb8ff9
+Author: atqhzlkha
+Email: atiqahzulaikha0410@student.usm.my
+Date: 2026-11-26 21:39:59 +0800
+Message: Add SPEM 2.0 and RACI sections to documentation
+
+Commit: bc8bf585030c7bc11af9e839f075b2607340415e
+Author: atqhzlkha
+Email: atiqahzulaikha0410@student.usm.my
+Date: 2026-11-26 21:38:20 +0800
+Message: Enhance introduction with background and audit purpose
+
+Commit: 12a9bbd04cb291b49e0c6c8c5843ba7954a6a65e
+Author: NUR ALYSSA MAISARA BINTI IRWAN
+Email: nralyssara@student.usm.my
+Date: 2026-11-26 21:37:48 +0800
+Message: Delete chat-history directory
+
+Commit: f59e51eacaefcc1423c228c6abae2e7f856bbb30
+Author: NUR ALYSSA MAISARA BINTI IRWAN
+Email: nralyssara@student.usm.my
+Date: 2026-11-26 21:32:12 +0800
+Message: Update README.md by removing two images
+
+Commit: 3a783f2851805b7794d099fe326dcd7560bfede3
+Author: NUR ALYSSA MAISARA BINTI IRWAN
+Email: nralyssara@student.usm.my
+Date: 2026-11-26 21:30:35 +0800
+Message: Add multiple images to chat history README
+
+Commit: 3db73e8f9cf8cc84c8530985bfd95dd92715da7c
+Author: NUR ALYSSA MAISARA BINTI IRWAN
+Email: nralyssara@student.usm.my
+Date: 2026-11-26 19:42:45 +0800
+Message: Create README.md
+
+Commit: 2fc345c2b8e67ccedd1295644310c3ac7faf5de1
+Author: NUR ALYSSA MAISARA BINTI IRWAN
+Email: nralyssara@student.usm.my
+Date: 2026-11-26 19:20:05 +0800
+Message: Create README.md
+
+Commit: d32d970b234ec8fc9d348e83b184db192202eef7
+Author: NUR ALYSSA MAISARA BINTI IRWAN
+Email: nralyssara@student.usm.my
+Date: 2026-11-26 19:18:46 +0800
+Message: Delete docs/Chat History
+
+Commit: aae97277d4ccd05574b7491bb8cb4ec3f4a84edc
+Author: NUR ALYSSA MAISARA BINTI IRWAN
+Email: nralyssara@student.usm.my
+Date: 2026-11-26 11:11:20 +0000
+Message: Create Chat History
+
+Commit: 8795563a6b7ede62a2818a2428c701747064eba6
+Author: NHHusnaUSM
+Email: nurhidayatulhusna@student.usm.my
+Date: 2026-11-25 13:12:27 +0800
+Message: Rename introduction to introduction.md
+
+Commit: b8af2423367fdf06e7faf9349b57a3fb86c3cec0
+Author: NHHusnaUSM
+Email: nurhidayatulhusna@student.usm.my
+Date: 2026-11-25 13:12:14 +0800
+Message: Rename conclusion to conclusion.md
+
+Commit: e8f4d8a18dc57d56c8d9bf11eae212ddf4b9fd29
+Author: AIN NUR NAJWA BINTI MOHD ALI
+Email: annajwa0310@student.usm.my
+Date: 2026-11-25 11:14:03 +0800
+Message: Document team dynamics and consensus process
+
+Commit: e5123ee4fb9ef318600d94509368c5648a3e9892
+Author: NHHusnaUSM
+Email: nurhidayatulhusna@student.usm.my
+Date: 2026-11-25 08:49:58 +0800
+Message: Fix typo in background worker verification description
+
+Commit: 291ed7259a3d9802961624efca2eee1f41f32ced
+Author: NUR ALYSSA MAISARA BINTI IRWAN
+Email: nralyssara@student.usm.my
+Date: 2026-11-25 00:43:02 +0800
+Message: Clarify reference to Appendix X in governance document
+
+Commit: 66c54b76b59af8cc1913384f87cf2dbf958f287f
+Author: NUR ALYSSA MAISARA BINTI IRWAN
+Email: nralyssara@student.usm.my
+Date: 2026-11-25 00:42:15 +0800
+Message: Process Tailoring Analysis with 4 Ps Framework
+
+Commit: 56904a5354f5dd3f4a9f96e606cf109b5b0fa255
+Author: NUR ALYSSA MAISARA BINTI IRWAN
+Email: nralyssara@student.usm.my
+Date: 2026-11-24 16:34:23 +0800
+Message: Update task2_RequirementsQuality_AgileUserStories.md
+
+Commit: 9d8339c106288f7ae8bf16b11b2c8fc1681291de
+Author: NUR ALYSSA MAISARA BINTI IRWAN
+Email: nralyssara@student.usm.my
+Date: 2026-11-24 16:02:49 +0800
+Message: Merge pull request #1 from NHHusnaUSM/nuralyssara-patch-1
+
+Commit: 7fd83983f3df527ef1ca57c5794f18b244575c61
+Author: NUR ALYSSA MAISARA BINTI IRWAN
+Email: nralyssara@student.usm.my
+Date: 2026-11-24 16:01:49 +0800
+Message: 2.1 User Story
+
+Commit: bb40a277e9a892d3983deae45681ce6b2d99c55e
+Author: NHHusnaUSM
+Email: nurhidayatulhusna@student.usm.my
+Date: 2026-11-24 15:31:59 +0800
+Message: readd the eveidence folder
+
+Commit: 3b930dbfa5913c57a1d3c2220c14d077f9be4edc
+Author: NHHusnaUSM
+Email: nurhidayatulhusna@student.usm.my
+Date: 2026-11-24 15:26:54 +0800
+Message: readd the eveidence folder
+
+Commit: 1fa29fe1581de3ebae6c40e54ac7794d92698d26
+Author: NUR ALYSSA MAISARA BINTI IRWAN
+Email: nralyssara@student.usm.my
+Date: 2026-11-24 14:29:36 +0800
+Message: Create Chat History
+
+Commit: 9e84125fcbf847eb2ac390d193a2243f32f9579d
+Author: SYAFRINA08
+Email: syafrinaali@student.usm.my
+Date: 2026-11-23 20:11:28 +0800
+Message: Lean Waste Audit & Remedies
+
+Commit: db6747251e2a78a96e3017bb0369ef473af7c6fe
+Author: atqhzlkha
+Email: atiqahzulaikha0410@student.usm.my
+Date: 2026-11-23 16:46:53 +0800
+Message: Add conclusion to software engineering transition report
+
+Commit: 450d3bc64c22f4efe1942d19e8a3d13f1d59e8d4
+Author: atqhzlkha
+Email: atiqahzulaikha0410@student.usm.my
+Date: 2026-11-23 16:45:06 +0800
+Message: Create introduction document for process audit
+
+Commit: 7bdccc14f9101b8b811d9fda3e54f1adf671fa16
+Author: NHHusnaUSM
+Email: nurhidayatulhusna@student.usm.my
+Date: 2026-11-23 13:15:49 +0800
+Message: Enhance formatting of user stories in requirements document
+
+Commit: 131391a838e371acba1020e5a716ae7178fdf600
+Author: NHHusnaUSM
+Email: nurhidayatulhusna@student.usm.my
+Date: 2026-11-23 13:10:29 +0800
+Message: Document user stories and acceptance criteria for Ticket2U
+
+Commit: c49c184bfb44772b116e32057905d82bed8e3c96
+Author: NHHusnaUSM
+Email: nurhidayatulhusna@student.usm.my
+Date: 2026-11-23 12:27:02 +0800
+Message: Enhance documentation with V-Model system diagram
+
+Commit: c23d9316dcf611aec9cde87576fc9fe699e67034
+Author: NHHusnaUSM
+Email: nurhidayatulhusna@student.usm.my
+Date: 2026-11-23 12:22:56 +0800
+Message: move picture into a folder
+
+Commit: 53fdecd9f626cd45cc5b7082d60529783aae77da
+Author: NHHusnaUSM
+Email: nurhidayatulhusna@student.usm.my
+Date: 2026-11-23 12:18:13 +0800
+Message: Add files via upload
+
+Commit: 8fef94aa644477b7ef676ac75209350fa79978a0
+Author: AIN NUR NAJWA BINTI MOHD ALI
+Email: annajwa0310@student.usm.my
+Date: 2026-11-23 11:02:25 +0800
+Message: Add section on Tuckman’s Team Dynamics and Governance
+
+Commit: b00f725c7bbb2cc6dfe6ab2211a0f0dc8a79d93e
+Author: AIN NUR NAJWA BINTI MOHD ALI
+Email: annajwa0310@student.usm.my
+Date: 2026-11-23 10:51:14 +0800
+Message: Enhance documentation with V-Model explanation
+
+Commit: fd9ce724649676285a565857320aacf21734b8c5
+Author: AIN NUR NAJWA BINTI MOHD ALI
+Email: annajwa0310@student.usm.my
+Date: 2026-11-23 10:47:23 +0800
+Message: Enhance V-Model documentation for verification and validation
+
+Commit: 9f664366cc73517a14214c7ef66b80282b57d887
+Author: atqhzlkha
+Email: atiqahzulaikha0410@student.usm.my
+Date: 2026-11-22 20:32:38 +0800
+Message: Expand documentation on verification and validation
+
+Commit: aecd418790c377914c76c112e2f21e965586252f
+Author: NHHusnaUSM
+Email: nurhidayatulhusna@student.usm.my
+Date: 2026-11-21 23:49:09 +0800
+Message: Expand documentation on Lean Waste Auditing and XP practices
+
+Commit: a6af61e0cf7fcabf2f4e2960ad85d6de3bafd784
+Author: NHHusnaUSM
+Email: nurhidayatulhusna@student.usm.my
+Date: 2026-11-21 23:29:24 +0800
+Message: Create CI workflow for USM Event Hub
+
+Commit: 9d96c7c4dcb22fbfa055539ed7437e8859ed8be7
+Author: NHHusnaUSM
+Email: nurhidayatulhusna@student.usm.my
+Date: 2026-11-21 23:29:07 +0800
+Message: Add title to Process Tailoring document
+
+Commit: 1d00af9c87d9d08de594bcf497dba9dc28827d3a
+Author: NHHusnaUSM
+Email: nurhidayatulhusna@student.usm.my
+Date: 2026-11-21 23:28:50 +0800
+Message: Add header for Lean Waste Auditing task document
+
+Commit: 262fd04bdc21fb0973b4bcb2abb7f17c98fe1b2d
+Author: NHHusnaUSM
+Email: nurhidayatulhusna@student.usm.my
+Date: 2026-11-21 23:28:40 +0800
+Message: Update and rename task3_SymmetricalVerification_Validation to task3_SymmetricalVerification_Validation.md
+
+Commit: 96d787b920d925d32b362db77ef4639eca5399af
+Author: NHHusnaUSM
+Email: nurhidayatulhusna@student.usm.my
+Date: 2026-11-21 23:28:32 +0800
+Message: Add header for Task 2 requirements document
+
+Commit: f1a02394ae0abf72278ad24b26ac1c37a12df660
+Author: NHHusnaUSM
+Email: nurhidayatulhusna@student.usm.my
+Date: 2026-11-21 23:28:20 +0800
+Message: Add title to Process Definition Modeling document
+
+Commit: d3098a1c9498bca9eede670eaaabe03b713651f3
+Author: NHHusnaUSM
+Email: nurhidayatulhusna@student.usm.my
+Date: 2026-11-21 23:27:31 +0800
+Message: Delete USM Event Hub CI workflow
+
+Commit: 437d10e2c8f9338b1700ed978f86f05779fcf57a
+Author: NHHusnaUSM
+Email: nurhidayatulhusna@student.usm.my
+Date: 2026-11-21 23:19:36 +0800
+Message: Fix echo statement in CI workflow
+
+Commit: b4b9324398282b66a2b3b72120d266d9fa360293
+Author: NHHusnaUSM
+Email: nurhidayatulhusna@student.usm.my
+Date: 2026-11-21 23:17:42 +0800
+Message: Update CI workflow to check new report draft files
+
+Commit: 820fd2e3000aeb0ff0f4a3f74208139608bcea7d
+Author: NHHusnaUSM
+Email: nurhidayatulhusna@student.usm.my
+Date: 2026-11-21 23:12:31 +0800
+Message: Add CI workflow for USM Event Hub checks
+
+Commit: bcbb7801a9e1bb927cdadcc283f078637d53c03c
+Author: NHHusnaUSM
+Email: nurhidayatulhusna@student.usm.my
+Date: 2026-11-21 23:12:21 +0800
+Message: Add tests for ticket registration functionality
+
+Commit: 09e19002dc9561dd1b6b608326b764a75345b7a3
+Author: NHHusnaUSM
+Email: nurhidayatulhusna@student.usm.my
+Date: 2026-11-21 23:10:11 +0800
+Message: Create task5_ProcessTailoring_HumanFactorGovernance
+
+Commit: fba019e67768ddad2817d27ffd2526e75b382edf
+Author: NHHusnaUSM
+Email: nurhidayatulhusna@student.usm.my
+Date: 2026-11-21 23:09:51 +0800
+Message: Create task4_LeanWasteAuditing_XPPracticeAlignment
+
+Commit: 472a85489d54d911345bda20f1773f0bd6c6c687
+Author: NHHusnaUSM
+Email: nurhidayatulhusna@student.usm.my
+Date: 2026-11-21 23:09:04 +0800
+Message: Create task3_SymmetricalVerification_Validation
+
+Commit: b57a046f489c9f348a5155d1fd75ea6f01c61d72
+Author: NHHusnaUSM
+Email: nurhidayatulhusna@student.usm.my
+Date: 2026-11-21 23:08:27 +0800
+Message: Create task2_RequirementsQuality_AgileUserStories
+
+Commit: b6b9f2bdac418c001909858f2b672f7b9b5cbc91
+Author: NHHusnaUSM
+Email: nurhidayatulhusna@student.usm.my
+Date: 2026-11-21 23:06:01 +0800
+Message: Create task1_ProcessDefinition_Modelling
