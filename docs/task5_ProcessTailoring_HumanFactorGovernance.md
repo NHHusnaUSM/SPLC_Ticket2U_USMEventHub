@@ -73,3 +73,5 @@ During the voting session, Atiqah and Syafrina gave a score of 5 and Husna gave 
 The team then stopped voting and discussed the issues of workload and project deadlines. The team lead accepted Ain's concern and offered a compromise to keep using the V-Model for the case study for Ticket2U and use the simplified V-Model Lite for the actual USM Event Hub project. The change would enable the team to keep up with the required academic level without the burden of documentation and development for the specific project. 
 
 After discussion, everyone on the team decided that the updated plan was more feasible and would be more practical to do in the designated amount of time. Afterwards, Ain voted 5, whilst Atiqah, Syafrina and Husna confirmed their support with a score of 5, each. Consequently, the proposal garnered 100% consensus and the team was able to complete its Hybrid Model tailoring strategy successfully.
+
+![System Diagram](evd_contribution/fistOfFive.jpeg)
